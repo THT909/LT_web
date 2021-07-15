@@ -1,0 +1,19 @@
+$ git status
+xem trạng thái hiện tại của các file
+
+$ git log
+Xem lại lịch sử commit
+
+$ git commit
+ lệnh này sẽ giúp chúng ta lưu các thay đổi ở các file
+ trong vùng staging area xuống repository.
+
+$ git add
+Git add là câu lệnh giúp chúng ta thêm tất
+cả các file code  mới hoặc các file code được chỉnh sửa vào repository.'
+
+$ git branch
+Trong một Git repository luôn luôn tồn tại nhiều nhánh riêng biệt 
+dùng để triển khai một tính năng nào đó độc lập với các nhánh khác.
+$ git push 
+ Đẩy dữ liệu đã lưu lên github
